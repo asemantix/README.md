@@ -1,14 +1,13 @@
 # ASEMANTIX™
 
-### The First Asemantic Communication Protocol
+### When offline means online.
 
-**Communicate at the speed of light.**  
-No network. No operator. No trace.
+**No network. No operator. No trace.**
 
-Where no one can connect — and no one can read your message.  
-Earth to Mars: 4 to 24 minutes.
+From Earth to Mars — 4 to 24 minutes.  
+From ocean depths to surface.
 
-**Your message is invisible.**
+**Your message travels at the speed of light, invisible.**
 
 [![Website](https://img.shields.io/badge/Website-asemantix.tech-gold?style=for-the-badge)](https://asemantix.tech)
 [![Patents](https://img.shields.io/badge/Patents-8-blue?style=for-the-badge)]()
